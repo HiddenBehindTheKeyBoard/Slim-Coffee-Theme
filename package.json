@@ -1,0 +1,22 @@
+{
+    "name": "slim-coffe",
+    "displayName": "slim coffe",
+    "description": "Estilo moderno para editar código de maneira suave, e sutil.",
+    "version": "0.0.1",
+    "publisher": "slim-coffe",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Adam Teodoro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adam Teodoro-color-theme.json"
+            }
+        ]
+    }
+}
