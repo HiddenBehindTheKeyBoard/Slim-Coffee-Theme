@@ -17,6 +17,13 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/Adam Teodoro-color-theme.json"
             }
+        ],
+        "iconThemes": [
+          {
+            "id": "turtles",
+            "label": "Turtles",
+            "path": "./fileicons/turtles-icon-theme.json"
+          }
         ]
     }
 }
