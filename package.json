@@ -1,9 +1,9 @@
 {
-    "name": "slim-coffe",
-    "displayName": "slim coffe",
+    "name": "slim-coffee",
+    "displayName": "slim coffee",
     "description": "Estilo moderno para editar código de maneira suave, e sutil.",
     "version": "0.0.1",
-    "publisher": "slim-coffe",
+    "publisher": "slim-coffee",
     "engines": {
         "vscode": "^1.49.0"
     },
